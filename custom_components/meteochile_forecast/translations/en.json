@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure MeteoChile Weather Forecast",
+        "description": "Select the city for the weather forecast entity.",
+        "data": {
+          "city_id": "City"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "City is already configured"
+    }
+  }
+}

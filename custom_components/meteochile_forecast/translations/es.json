@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurar Pronóstico MeteoChile",
+        "description": "Seleccione la ciudad para la entidad de pronóstico del tiempo.",
+        "data": {
+          "city_id": "Ciudad"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Problema al conectar",
+      "unknown": "Error inesperado"
+    },
+    "abort": {
+      "already_configured": "La ciudad ya se encuentra configurada"
+    }
+  }
+}

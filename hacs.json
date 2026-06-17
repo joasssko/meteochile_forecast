@@ -1,0 +1,5 @@
+{
+  "name": "Pronóstico del tiempo en Chile",
+  "render_readme": true,
+  "homeassistant": "2023.8.0"
+}
